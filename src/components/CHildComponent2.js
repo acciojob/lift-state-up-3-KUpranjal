@@ -1,5 +1,5 @@
 import React from "react";
-const CHildComponent2=({setSelectedOption})=>{
+const ChildComponent2=({setSelectedOption})=>{
      return (
     <div>
       <p>Child Component 1</p>
@@ -9,4 +9,4 @@ const CHildComponent2=({setSelectedOption})=>{
     </div>
   );
 }
-export default CHildComponent2
+export default ChildComponent2
